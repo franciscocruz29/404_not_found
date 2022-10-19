@@ -28,7 +28,7 @@
 <!-- OVERVIEW -->
 
 ## Overview
-Simple page "404 Error Not found" made with HTML & CSS (Responsive & fluid design)
+Simple page "404 Error Not found" made with HTML semantic elements and custom properties in CSS. 
 
 ![screenshot](404-challenge.png)
 
